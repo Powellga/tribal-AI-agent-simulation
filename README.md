@@ -4,7 +4,7 @@ An advanced multi-agent survival simulation exploring emergent AI behaviors, ins
 
 ## 🎮 Live Demo
 
-[Try it here](https://powellga.github.io/tribal-AI-agent-simulation/) 
+**[Try it here](https://powellga.github.io/tribal-AI-agent-simulation/)**
 
 ## 📖 Overview
 
@@ -289,7 +289,7 @@ MIT License - See LICENSE file for details
 
 ---
 
-Created by: Gregg Powell
-Repository: https://powellga.github.io/tribal-AI-agent-simulation/
-Version: 2.0.0  
-Last Updated: August 24, 2025
+**Created by:** Gregg Powell  
+**Repository:** https://powellga.github.io/tribal-AI-agent-simulation/  
+**Version:** 2.0.0  
+**Last Updated:** August 24, 2025
