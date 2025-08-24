@@ -289,7 +289,7 @@ MIT License - See LICENSE file for details
 
 ---
 
-Created by: Gregg Powell
-Repository: https://powellga.github.io/tribal-AI-agent-simulation/
+**Created by:** Gregg Powell
+**Repository:** https://powellga.github.io/tribal-AI-agent-simulation/
 Version: 2.0.0  
 Last Updated: August 24, 2025
